@@ -1,2 +1,2 @@
 ***Website***
-> My journy buld website from zero
+> My journey buld website from zero
