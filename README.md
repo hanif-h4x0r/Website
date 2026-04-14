@@ -1,2 +1,2 @@
 ***Website***
-> My journey buld website from zero
+> My journey build website from zero
